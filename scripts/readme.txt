@@ -8,11 +8,11 @@ Files:
     * init_slm.m - initialisation script for the SLM
 * main.m - main script file, loads the KTH database, performs the measurements with different hyperparameters, evaluates the RC performance and returns a table for comparison
     * write_mx.m - function for writing data into the SLM device
+    
+The "kth_hog8x8_pca2k_labels.mat" database, containing HOG features extracted from the KTH video frames, and loaded by the "main.m" script, can be downloaded here: FIXME
 
 The scripts are designed to operate specifically with the hardware described in the paper above, and have not been tested elsewhere. They are shared "as is" and the authors bear no responsibility for the outcome in any other configuration than the one described in the paper.
 
 If you found these scripts useful and plan to use it in full or in part, please consider:
 * citing our paper
-* letting us know - any appreciation is always welcome :-)
-
-FIXME: upload the KTH PCA'ed database somewhere
+* letting us know - some appreciation is always welcome :-)
