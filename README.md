@@ -1,6 +1,6 @@
 # rc_slm_kth
-Photonic reservoir computer for video action recognition
 
-To Do:
-1. upload files
-2. write a readme/tutorial on how to use
+Scripts and experimental data related to the paper "Human action recognition with a large-scale brain-inspired photonic computer", written by Piotr Antonik, Nicolas Marsal, Daniel Brunner, and Damien Rontani, and published in Nature Machine Intelligence.
+
+Data folder contains the experimental data and Matlab scripts used to analyse it.
+Scripts folder contains the Matlab codes used to control the optical experiment.
