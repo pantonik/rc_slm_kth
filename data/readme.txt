@@ -8,7 +8,7 @@ Files:
 * analyse_exp.m - Matlab script used to analyse experimental data
 * conf_matrix.m - Matlab function designed to compute a confusion matrix
 
-A recording from a single experimental run typically takes several Gb of data and therefore can not be stored on GitHub. A full recording of one of the best experimental runs can be downloaded here: FIXME
+A recording from a single experimental run typically takes several Gb of data and therefore can not be stored on GitHub. A full recording of one of the best experimental runs can be downloaded here: https://osf.io/axtd5/?view_only=49aee5e79e8744c29e598e19bc9368da (file: ws_exp_run2_2019_07_25.mat).
 
 To reproduce the Tab. 2 (experiment), one needs to:
 1. Load the .mat file into Matlab workspace (this may take some time, and a few unimportant warnings may pop up)
