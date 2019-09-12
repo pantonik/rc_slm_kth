@@ -15,4 +15,4 @@ The scripts are designed to operate specifically with the hardware described in 
 
 If you found these scripts useful and plan to use it in full or in part, please consider:
 * citing our paper
-* letting us know - some appreciation is always welcome :-)
+* letting us know - appreciation is always welcome :-)
