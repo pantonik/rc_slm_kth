@@ -4,3 +4,5 @@ Scripts and experimental data related to the paper "Human action recognition wit
 
 * Data folder contains the experimental data and Matlab scripts used to analyse it.
 * Scripts folder contains the Matlab codes used to control the optical experiment.
+
+DOI: https://zenodo.org/badge/latestdoi/205814985
